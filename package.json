@@ -1,6 +1,6 @@
 {
-  "name": "website",
-  "version": "0.1.0",
+  "name": "meridian-home-care-website",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -20,5 +20,6 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.12",
     "typescript": "^5"
-  }
+  },
+  "description": "Marketing and booking website for Meridian Home Care, a Chicago cleaning company."
 }
